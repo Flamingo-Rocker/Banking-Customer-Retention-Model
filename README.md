@@ -66,7 +66,6 @@ The business requirement was to build a model with the **highest possible F1 sco
 ```
 banking-customer-retention/
 ├── notebooks/ <- Final cleaned Jupyter notebook
-├── notebooks_archive/ <- Raw unedited notebook
 ├── data/ <- Customer churn dataset
 ├── requirements.txt <- Dependencies
 ├── LICENSE <- MIT License
